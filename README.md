@@ -57,14 +57,23 @@ One important disadvantage of permutation feature importance is that the results
 ## Useful resources: 
 
 Most important libraries for Explainable AI: 
+
 [SHAP](https://github.com/slundberg/shap)
+
 [LIME](https://github.com/marcotcr/lime)
+
 [ELI5](https://github.com/TeamHG-Memex/eli5)
+
 [PDPBOX](https://github.com/SauceCat/PDPbox)
+
 [PyCEbox](https://github.com/AustinRochford/PyCEbox)
+
 [Skater](https://github.com/oracle/Skater)
+
 [deeplift](https://github.com/kundajelab/deeplift)
+
 [interpret](https://github.com/interpretml/interpret)
+
 
 
 
