@@ -11,8 +11,26 @@ However, machine learning models are often a black box. To reconcile this with d
 
 ## Who is also driving demand for XAI?
 Apart from customers, a key stakeholder that is demanding XAI are regulators. Some of the regulations that have put "Right to Explanation" at the center are: 
-- GDPR
-- Fair Credit Report Act
+- [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+- [Fair Credit Reporting Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/fair-credit-reporting-act) 
+- [Equal Credit Opportunity Act (ECOA) ](https://www.ftc.gov/enforcement/statutes/equal-credit-opportunity-act) 
+The fields where the regulators will be especially keen to enforce greater transparency of Explainable AI are finance and health. Both sectors can have a significant impact on our lives and will be therefore more strictly regulated than others. 
+
+## What are the main methods for XAI?
+The most well founded method for XAI is [SHAP approach](https://github.com/slundberg/shap). It is based on Shapley values, which use coalitional game theory to distribute payouts from a game. 
+
+In case of applying Shapley values to machine learning problem, the "game" is prediction of ML model, the "players" in the game are input variables values for given instance and the "payout" is equal to prediction with baseline score subtracted. 
+
+SHAP method has several excellent properties, among other: 
+- local accuracy
+- consistency
+- missingness
+
+The SHAP library which implements the Shap approach comes with several very powerful functions: 
+- shap.summary_plot is very useful for displaying the most important features of a machine learning model
+- shap.dependence_plot is similar to partial dependence plot and allows you to explore how the feature influencers the outcome prediction
+- shap.force_plot is key to gain local interpretability information, which feature values had highest impact on outcome probability and in which direction. 
+
 
 Resources: 
 
