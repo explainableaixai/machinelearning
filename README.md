@@ -10,5 +10,10 @@ Some of the regulations that have put "Right to Explanation" at the center are:
 
 Resources: 
 
-[Link](https://github.com/slundberg/shap)
+[SHAP](https://github.com/slundberg/shap)
+[LIME](https://github.com/marcotcr/lime)
+[Explainable AI Consulting](https://www.alpha-quantum.com/)
+[ELI5](https://github.com/TeamHG-Memex/eli5)
+[PDPBOX](https://github.com/SauceCat/PDPbox)
+
 
