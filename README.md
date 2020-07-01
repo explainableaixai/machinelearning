@@ -53,6 +53,13 @@ One of the earliest methods for determining importance of features was permutati
 
 One important disadvantage of permutation feature importance is that the results may be misleading if we are using features that have high correlation. 
 
+### Data Visualizations
+
+An important to provide stakeholders in companies with accurate information regarding AI explainability is to present the stories with data visualizations. 
+[Data Visualizations Consulting](http://www.datavisualizations.org/) has in general become an important field, as more and more companies rely on the power of visuzalizations to present their work both internally as well as to outside audience. One of the applications for explainable AI is to help content marketers better understand what is the reason why they rank high or low on search engines for given keywords. [Tools for finding keywords](https://unicornseo.com/) are very important for all those that want to improve their search rankings. 
+
+
+
 
 ## Useful resources: 
 
