@@ -58,7 +58,23 @@ One important disadvantage of permutation feature importance is that the results
 An important to provide stakeholders in companies with accurate information regarding AI explainability is to present the stories with data visualizations. 
 [Data Visualizations Consulting](http://www.datavisualizations.org/) has in general become an important field, as more and more companies rely on the power of visuzalizations to present their work both internally as well as to outside audience. One of the applications for explainable AI is to help content marketers better understand what is the reason why they rank high or low on search engines for given keywords. [Tools for finding keywords](https://unicornseo.com/) are very important for all those that want to improve their search rankings. 
 
+### Product categorization, product tagging and trending products
 
+Product categorization belongs to the text classification class of problems, where the goal is to classify given text to a given pre-determined class. 
+Example of text classification model is .e.g sentiment classification. 
+[Product categorization for stores](https://www.productcategorization.com/) is an important discipline of machine learning models. 
+With text classification, your text is categorized based on a set of pre-determined classes which you have provided us. Based on the given training data, we model a comprehensive predictive model that has the ability to predict the class of an unseen document, with a small rate of error. The accuracy of a machine learning based system depends on proper selection of features and the quality of the training data, apart from an intelligent design of the predictive model.
+
+[Product tagging for stores](https://www.producttagging.io/) A.I. analysis engine digests all textual information in  content automatically and accurately to tag relevant categories, sub-categories, brands, designs, models, prices, reviews, technical specifications etc. With a few clicks, you can tag your products to enable search, recommend products that might be of interest, and create a seamless experience across all retail locations your customers may visit.
+
+[Products in trends](https://www.trendingproducts.io/) tells you which products are trending. Profit Genie compares search engine popularity of top products sold by 1+ million of shops to deduce trending products. This is particularly helpful since not all trends are numerous enough to be noticed by human eye, but can still be an opportunity for business.
+Simply enter your search query (e.g. 'coffee maker') and the monthly trend graph will automatically find products with the greatest surge in popularity over the last 12 months, along with chart showing search popularity over the last 1 year.
+
+What is trending?  Trending products are those that have experienced a surge in popularity in a defined period of time, as derived from data from 1+ million ecommerce shops. In order to provide this service, we analyze the past 12 months of search query performance for products from 1+ million shops, and visualise the result of our analysis on a single page. You can easily identify item categories with the most trending products, view the most popular brands and get an insight into all items with a growing popularity.
+
+### AI Lead Generation
+[Products in trends](https://www.trendingproducts.io/) offers AI lead generation capabilities to find your customers.
+ Instantly find and communicate with new leads and potential customers within your niche. We know that generating potential buyers is tough, but we've created a lead generation tool that does it for you! Our software uses artificial intelligence to find your best customers, match them with your products and services, and send them to you. Huge quality leads produced quickly - all at no cost to you!
 
 
 ## Useful resources: 
