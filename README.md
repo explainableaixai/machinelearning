@@ -73,7 +73,7 @@ Simply enter your search query (e.g. 'coffee maker') and the monthly trend graph
 What is trending?  Trending products are those that have experienced a surge in popularity in a defined period of time, as derived from data from 1+ million ecommerce shops. In order to provide this service, we analyze the past 12 months of search query performance for products from 1+ million shops, and visualise the result of our analysis on a single page. You can easily identify item categories with the most trending products, view the most popular brands and get an insight into all items with a growing popularity.
 
 ### AI Lead Generation
-[Products in trends](https://www.trendingproducts.io/) offers AI lead generation capabilities to find your customers.
+[AI Lead Generation](https://aileadgeneration.ai/) offers AI lead generation capabilities to find your customers.
  Instantly find and communicate with new leads and potential customers within your niche. We know that generating potential buyers is tough, but we've created a lead generation tool that does it for you! Our software uses artificial intelligence to find your best customers, match them with your products and services, and send them to you. Huge quality leads produced quickly - all at no cost to you!
 
 
