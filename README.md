@@ -75,6 +75,11 @@ What is trending?  Trending products are those that have experienced a surge in 
 ### AI Lead Generation
 [AI Lead Generation](https://aileadgeneration.ai/) offers AI lead generation capabilities to find your customers.
  Instantly find and communicate with new leads and potential customers within your niche. We know that generating potential buyers is tough, but we've created a lead generation tool that does it for you! Our software uses artificial intelligence to find your best customers, match them with your products and services, and send them to you. Huge quality leads produced quickly - all at no cost to you!
+ 
+ ### Website Categorization API
+ 
+ An important part in today's world is classifying websites. This can be used for brand safety, online filtering or for building own platforms. Website categorization usually involves classifying websites according to IAB standard. Note that there were several revisions of IAB classification taxonomy through the years and you need to pay attention to which one you need. There is [a free website categorization API tool available](https://www.websitecategorizationapi.com/) which you can use to categorize your websites. 
+ It is using a machine learning model for automated classification and offers an API for easier use as well as introductory examples. 
 
 
 ## Useful resources: 
