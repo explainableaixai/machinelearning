@@ -80,6 +80,12 @@ What is trending?  Trending products are those that have experienced a surge in 
  
  An important part in today's world is classifying websites. This can be used for brand safety, online filtering or for building own platforms. Website categorization usually involves classifying websites according to IAB standard. Note that there were several revisions of IAB classification taxonomy through the years and you need to pay attention to which one you need. There is [a free website categorization API tool available](https://www.websitecategorizationapi.com/) which you can use to categorize your websites. 
  It is using a machine learning model for automated classification and offers an API for easier use as well as introductory examples. 
+ 
+  ### Top shopify stores in given country
+ 
+Online stores is a very competitive business with billions of USD realized in many verticals. An important of operating an online stores is knowing who your competitors are. Many of online stores use [Shopify](https://www.shopify.com/)  as their underlying platform, which offers many features and is a leading provider of features for ecommerce. It has become such a success that its market capitalization on stock exchange surpassed 100 billion USD recently. 
+
+But back to online stores owners. How do they get to know their top competitors? One approach is to [search for top shopify stores in given country](https://www.onlinestores.ai/) and then drill down even more by searching for top shopify stores in given country and given vertical (Tier 1, Tier 2 and Tier 3) according to Google product taxonomy.
 
 
 ## Useful resources: 
