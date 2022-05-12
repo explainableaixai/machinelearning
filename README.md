@@ -93,7 +93,7 @@ Math and Physics education is kind of natural fit for the discipline of data sci
 
 ## Useful resources: 
 
-Most important libraries for Explainable AI: 
+Most important libraries for [Explainable AI](https://t.me/s/explainableairesearch): 
 
 [SHAP](https://github.com/slundberg/shap)
 
