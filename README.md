@@ -81,6 +81,16 @@ What is trending?  Trending products are those that have experienced a surge in 
  An important part in today's world is classifying websites. This can be used for brand safety, online filtering or for building own platforms. Website categorization usually involves classifying websites according to IAB standard. Note that there were several revisions of IAB classification taxonomy through the years and you need to pay attention to which one you need. There is [a free website categorization API tool available](https://www.websitecategorizationapi.com/) which you can use to categorize your websites. 
  It is using a machine learning model for automated classification and offers an API for easier use as well as introductory examples. 
  
+ ### Product categorization - Ecommerce classification service
+ 
+ A related text classification field is categorization of products. Typical products could be a large data set obtained from an online store. Some data sets can contain millions of different products. 
+ 
+In this case, the important first step is to select the proper taxonomy for Ecommerce classification service. 
+
+Most useful in this respect are those from Google and Facebook, which both have over 1000 categories and thus offer detailed categorization. 
+
+[Ecommerce classification service needs many categories ]([https://www.onlinestores.ai/](https://medium.com/product-categorization/product-categorization-introduction-d62bb92e8515))  in order to provide better filtering and searchability of products. 
+ 
   ### Top shopify stores in given country
  
 Online stores is a very competitive business with billions of USD realized in many verticals. An important of operating an online stores is knowing who your competitors are. Many of online stores use [Shopify](https://www.shopify.com/)  as their underlying platform, which offers many features and is a leading provider of features for ecommerce. It has become such a success that its market capitalization on stock exchange surpassed 100 billion USD recently. 
