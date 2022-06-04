@@ -89,7 +89,7 @@ In this case, the important first step is to select the proper taxonomy for Ecom
 
 Most useful in this respect are those from Google and Facebook, which both have over 1000 categories and thus offer detailed categorization. 
 
-[Ecommerce classification service needs many categories ]([https://www.onlinestores.ai/](https://medium.com/product-categorization/product-categorization-introduction-d62bb92e8515))  in order to provide better filtering and searchability of products. 
+[Ecommerce classification service needs many categories](https://medium.com/product-categorization/product-categorization-introduction-d62bb92e8515) in order to provide better filtering and searchability of products. 
  
   ### Top shopify stores in given country
  
