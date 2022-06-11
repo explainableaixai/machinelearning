@@ -97,6 +97,8 @@ Online stores is a very competitive business with billions of USD realized in ma
 
 But back to online stores owners. How do they get to know their top competitors? One approach is to [search for top shopify stores in given country](https://www.onlinestores.ai/) and then drill down even more by searching for top shopify stores in given country and given vertical (Tier 1, Tier 2 and Tier 3) according to Google product taxonomy.
 
+Top shopify stores can be collected by using various services including [by looking up domains on given IP address](https://reverseiplookupapi.com). Shopify namely uses specific IPs for hosting of the online stores. 
+
 ### Math and Physics importance for coding
 My education is a Ph.D. in Theorerical Physics and have to say that I am really happy that I chose this path at the time, when natural sciences education was not really that "valuable" and well paid, this was prior to the rise of data science and artificial intelligence. Physics, Math and general Stem education has really important in recent times, also in Germany where many people are looking for [mathe and physik online nachhilfe](https://www.boplnachhilfe.de/). 
 Math and Physics education is kind of natural fit for the discipline of data science, where I am mainly active in the last 5 years. Ph.D. has also been helpful in the sense of getting discipline to get large project from start to end, over a longer period of time. 
