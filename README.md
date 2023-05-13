@@ -79,7 +79,23 @@ What is trending?  Trending products are those that have experienced a surge in 
  ### Website Categorization API
  
  An important part in today's world is classifying websites. This can be used for brand safety, online filtering or for building own platforms. Website categorization usually involves classifying websites according to IAB standard. Note that there were several revisions of IAB classification taxonomy through the years and you need to pay attention to which one you need. There is [a free website categorization API tool available](https://www.websitecategorizationapi.com/) which you can use to categorize your websites. 
+ 
  It is using a machine learning model for automated classification and offers an API for easier use as well as introductory examples. 
+ 
+ We used this service to determine industry verticals for 2000+ technologies which allows us interesting insights. 
+ 
+ E.g., let us take a popular technology of wordpress and examine how it is used across industry verticals: 
+ 
+ ![image](https://github.com/explainableaixai/machinelearning/assets/58834207/79480764-9e23-4242-9147-7ab82e267f0a)
+
+Business Finance high share is due to high share overall, what if we want to which verticals are above average users of Wordpress, here is the resulting analysis: 
+![image](https://github.com/explainableaixai/machinelearning/assets/58834207/b949c574-92ef-4cba-801b-89c2363dd1fd)
+
+Next, what are the technologies that are most often used together with Wordpress. We checked millions of domains to answer this question: 
+
+<table class="table" style="font-size:20px;line-height:30px"><thead><tr><th>Technology</th><th>% of use together with  WordPress</th><th>Website</th></tr></thead><tbody><tr><td><a href="https://www.alpha-quantum.com/technologies/MySQL">MySQL</a></td><td>99.66</td><td><a href="http://mysql.com">http://mysql.com</a></td></tr><tr><td><a href="https://www.alpha-quantum.com/technologies/PHP">PHP</a></td><td>99.24</td><td><a href="http://php.net">http://php.net</a></td></tr><tr><td><a href="https://www.alpha-quantum.com/technologies/jQuery">jQuery</a></td><td>92.68</td><td><a href="https://jquery.com">https://jquery.com</a></td></tr><tr><td><a href="https://www.alpha-quantum.com/technologies/jQuery Migrate">jQuery Migrate</a></td><td>81.07</td><td><a href="https://github.com/jquery/jquery-migrate">https://github.com/jquery/jquery-migrate</a></td></tr><tr><td><a href="https://www.alpha-quantum.com/technologies/Google Font API">Google Font API</a></td><td>65.69</td><td><a href="https://google.com/fonts">http://google.com/fonts</a></td></tr><tr><td><a href="https://www.alpha-quantum.com/technologies/Twitter Emoji (Twemoji)">Twitter Emoji (Twemoji)</a></td><td>63.16</td><td>https://twitter.github.io/twemoji/</td></tr><tr><td><a href="https://www.alpha-quantum.com/technologies/Google Analytics">Google Analytics</a></td><td>55.02</td><td>http://google.com/analytics</td></tr><tr><td><a href="https://www.alpha-quantum.com/technologies/Font Awesome">Font Awesome</a></td><td>47.1</td><td>https://fontawesome.com/</td></tr><tr><td><a href="https://www.alpha-quantum.com/technologies/Google Tag Manager">Google Tag Manager</a></td><td>44.36</td><td>http://www.google.com/tagmanager</td></tr><tr><td><a href="https://www.alpha-quantum.com/technologies/Yoast SEO">Yoast SEO</a></td><td>37.15</td><td>http://yoast.com</td></tr></tbody></table>
+
+
  
  ### Product categorization - Ecommerce classification service
  
@@ -96,8 +112,6 @@ Most useful in this respect are those from Google and Facebook, which both have 
 Online stores is a very competitive business with billions of USD realized in many verticals. An important of operating an online stores is knowing who your competitors are. Many of online stores use [Shopify](https://www.shopify.com/)  as their underlying platform, which offers many features and is a leading provider of features for ecommerce. It has become such a success that its market capitalization on stock exchange surpassed 100 billion USD recently. 
 
 But back to online stores owners. How do they get to know their top competitors? One approach is to [search for top shopify stores in given country](https://www.onlinestores.ai/) and then drill down even more by searching for top shopify stores in given country and given vertical (Tier 1, Tier 2 and Tier 3) according to Google product taxonomy.
-
-Top shopify stores can be collected by using various services including [by looking up domains on given IP address](https://reverseiplookupapi.com). Shopify namely uses specific IPs for hosting of the online stores. 
 
 ### Math and Physics importance for coding
 My education is a Ph.D. in Theorerical Physics and have to say that I am really happy that I chose this path at the time, when natural sciences education was not really that "valuable" and well paid, this was prior to the rise of data science and artificial intelligence. Physics, Math and general Stem education has really important in recent times, also in Germany where many people are looking for [mathe and physik online nachhilfe](https://www.boplnachhilfe.de/). 
